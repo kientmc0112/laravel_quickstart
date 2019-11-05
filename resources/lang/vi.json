@@ -1,0 +1,12 @@
+{
+    "laravel quickstart - basic": "Laravel Quickstart cơ bản",
+    "create new task": "Tạo nhiệm vụ mới",
+    "create task": "Tạo nhiệm vụ",
+    "add": "Thêm",
+    "list task": "Danh sách nhiệm vụ",
+    "edit": "Sửa",
+    "edit task": "Sửa nhiệm vụ",
+    "delete": "Xóa",
+    "delete task": "Xóa nhiệm vụ",
+    "save": "Lưu"
+}
