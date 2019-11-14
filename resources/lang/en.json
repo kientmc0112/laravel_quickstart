@@ -1,0 +1,12 @@
+{
+	"laravel quickstart - basic": "Laravel Quickstart - Basic",
+	"create new task": "Create New Task",
+	"create task": "Create Task",
+    "add": "ADD",
+    "list task": "List Task",
+    "edit": "Edit",
+    "edit task": "Edit Task",
+    "delete": "Delete",
+    "delete task": "Delete Task",
+    "save": "Save"
+}
